@@ -13,6 +13,6 @@ void draw(){
     print(m);
     if(m.equals("0")) fill(0,0,255); 
     if(m.equals("1")) fill(255,0,0);
-    eclipse(250,250,450,450);
+    ellipse(250,250,450,450);
   }
 }
